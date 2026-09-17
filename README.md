@@ -74,3 +74,4 @@ Marlin often struggles to run both an SD Card and an I2C screen on ESP32 due to 
 ---
 
 *(The base Marlin 3D Printer Firmware is published under the GPL license. For more information about the base firmware, visit the [Marlin Home Page](https://marlinfw.org/)).*
+*(This project was developed with the help of AI, and I've been doing some intense mental gymnastics on it for the past 2-3 days. I'm leaving the project as it is for now because my university classes are starting and I have other projects to catch up on. If you have any questions, feel free to reach out and I'll do my best to answer them!)*
