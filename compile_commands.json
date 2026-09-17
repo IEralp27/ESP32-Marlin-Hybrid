@@ -1,0 +1,662 @@
+[
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/CDC.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/CDC.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/HardwareSerial.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/HardwareSerial.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/HardwareSerial0.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/HardwareSerial0.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/HardwareSerial1.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/HardwareSerial1.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/HardwareSerial2.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/HardwareSerial2.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/HardwareSerial3.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/HardwareSerial3.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/IPAddress.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/IPAddress.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/PluggableUSB.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/PluggableUSB.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/Print.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/Print.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/Stream.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/Stream.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/Tone.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/Tone.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/USBCore.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/USBCore.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/mega2560/FrameworkArduino/WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "output": ".pio/build/mega2560/FrameworkArduino/WInterrupts.c.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/WMath.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/WMath.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/WString.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/WString.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/abi.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/abi.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/mega2560/FrameworkArduino/hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "output": ".pio/build/mega2560/FrameworkArduino/hooks.c.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/main.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/main.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/FrameworkArduino/new.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "output": ".pio/build/mega2560/FrameworkArduino/new.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/mega2560/FrameworkArduino/wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "output": ".pio/build/mega2560/FrameworkArduino/wiring.c.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/mega2560/FrameworkArduino/wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "output": ".pio/build/mega2560/FrameworkArduino/wiring_analog.c.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/mega2560/FrameworkArduino/wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "output": ".pio/build/mega2560/FrameworkArduino/wiring_digital.c.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -x assembler-with-cpp -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega -c -o .pio/build/mega2560/FrameworkArduino/wiring_pulse.S.o /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "output": ".pio/build/mega2560/FrameworkArduino/wiring_pulse.S.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/mega2560/FrameworkArduino/wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "output": ".pio/build/mega2560/FrameworkArduino/wiring_pulse.c.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/mega2560/FrameworkArduino/wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "output": ".pio/build/mega2560/FrameworkArduino/wiring_shift.c.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/libcd1/SPI/SPI.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src/SPI.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src/SPI.cpp",
+        "output": ".pio/build/mega2560/libcd1/SPI/SPI.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/lib88e/Wire/Wire.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src/Wire.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src/Wire.cpp",
+        "output": ".pio/build/mega2560/lib88e/Wire/Wire.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/mega2560/lib88e/Wire/utility/twi.c.o -c -std=gnu11 -fno-fat-lto-objects -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega /home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src/utility/twi.c",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src/utility/twi.c",
+        "output": ".pio/build/mega2560/lib88e/Wire/utility/twi.c.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/AVR/HAL.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/AVR/HAL.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/AVR/HAL.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/AVR/HAL.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/AVR/HAL_SPI.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/AVR/HAL_SPI.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/AVR/HAL_SPI.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/AVR/HAL_SPI.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/AVR/MarlinSerial.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/AVR/MarlinSerial.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/AVR/MarlinSerial.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/AVR/MarlinSerial.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/AVR/Servo.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/AVR/Servo.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/AVR/Servo.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/AVR/Servo.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/AVR/eeprom.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/AVR/eeprom.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/AVR/eeprom.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/AVR/eeprom.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/AVR/fast_pwm.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/AVR/fast_pwm.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/AVR/fast_pwm.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/AVR/fast_pwm.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/AVR/fastio.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/AVR/fastio.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/AVR/fastio.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/AVR/fastio.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/AVR/u8g_com_HAL_AVR_sw_spi.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/AVR/u8g_com_HAL_AVR_sw_spi.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/AVR/u8g_com_HAL_AVR_sw_spi.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/AVR/u8g_com_HAL_AVR_sw_spi.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/shared/Delay.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/shared/Delay.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/shared/Delay.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/shared/Delay.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/shared/HAL.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/shared/HAL.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/shared/HAL.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/shared/HAL.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/shared/MinSerial.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/shared/MinSerial.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/shared/MinSerial.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/shared/MinSerial.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/shared/eeprom_api.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/shared/eeprom_api.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/shared/eeprom_api.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/shared/eeprom_api.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/shared/esp_wifi.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/shared/esp_wifi.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/shared/esp_wifi.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/shared/esp_wifi.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/HAL/shared/servo.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/HAL/shared/servo.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/HAL/shared/servo.cpp",
+        "output": ".pio/build/mega2560/src/src/HAL/shared/servo.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/MarlinCore.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/MarlinCore.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/MarlinCore.cpp",
+        "output": ".pio/build/mega2560/src/src/MarlinCore.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/core/serial.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/core/serial.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/core/serial.cpp",
+        "output": ".pio/build/mega2560/src/src/core/serial.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/core/utility.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/core/utility.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/core/utility.cpp",
+        "output": ".pio/build/mega2560/src/src/core/utility.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/calibrate/G28.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/calibrate/G28.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/calibrate/G28.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/calibrate/G28.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/config/M200-M205.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/config/M200-M205.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/config/M200-M205.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/config/M200-M205.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/config/M220.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/config/M220.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/config/M220.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/config/M220.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/config/M221.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/config/M221.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/config/M221.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/config/M221.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/config/M301.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/config/M301.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/config/M301.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/config/M301.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/config/M302.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/config/M302.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/config/M302.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/config/M302.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/config/M309.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/config/M309.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/config/M309.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/config/M309.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/config/M92.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/config/M92.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/config/M92.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/config/M92.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/control/M108_M112_M410.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/control/M108_M112_M410.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/control/M108_M112_M410.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/control/M108_M112_M410.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/control/M111.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/control/M111.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/control/M111.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/control/M111.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/control/M120_M121.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/control/M120_M121.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/control/M120_M121.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/control/M120_M121.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/control/M17_M18_M84.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/control/M17_M18_M84.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/control/M17_M18_M84.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/control/M17_M18_M84.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/control/M211.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/control/M211.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/control/M211.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/control/M211.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/control/M400.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/control/M400.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/control/M400.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/control/M400.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/control/M80_M81.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/control/M80_M81.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/control/M80_M81.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/control/M80_M81.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/control/M85.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/control/M85.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/control/M85.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/control/M85.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/control/M993_M994.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/control/M993_M994.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/control/M993_M994.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/control/M993_M994.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/control/M997.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/control/M997.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/control/M997.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/control/M997.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/control/M999.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/control/M999.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/control/M999.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/control/M999.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/control/T.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/control/T.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/control/T.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/control/T.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/eeprom/M500-M504.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/eeprom/M500-M504.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/eeprom/M500-M504.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/eeprom/M500-M504.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/feature/digipot/M907-M910.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/feature/digipot/M907-M910.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/feature/digipot/M907-M910.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/feature/digipot/M907-M910.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/gcode.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/gcode.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/gcode.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/gcode.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/gcode_d.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/gcode_d.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/gcode_d.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/gcode_d.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/geometry/G92.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/geometry/G92.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/geometry/G92.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/geometry/G92.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/geometry/M206_M428.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/geometry/M206_M428.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/geometry/M206_M428.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/geometry/M206_M428.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/host/M110.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/host/M110.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/host/M110.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/host/M110.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/host/M113.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/host/M113.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/host/M113.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/host/M113.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/host/M114.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/host/M114.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/host/M114.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/host/M114.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/host/M115.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/host/M115.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/host/M115.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/host/M115.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/host/M118.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/host/M118.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/host/M118.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/host/M118.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/host/M119.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/host/M119.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/host/M119.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/host/M119.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/lcd/M145.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/lcd/M145.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/lcd/M145.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/lcd/M145.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/motion/G0_G1.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/motion/G0_G1.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/motion/G0_G1.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/motion/G0_G1.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/motion/G2_G3.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/motion/G2_G3.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/motion/G2_G3.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/motion/G2_G3.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/motion/G4.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/motion/G4.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/motion/G4.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/motion/G4.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/parser.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/parser.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/parser.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/parser.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/queue.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/queue.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/queue.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/queue.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/stats/M31.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/stats/M31.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/stats/M31.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/stats/M31.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/stats/M75-M78.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/stats/M75-M78.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/stats/M75-M78.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/stats/M75-M78.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/temp/M104_M109.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/temp/M104_M109.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/temp/M104_M109.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/temp/M104_M109.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/temp/M105.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/temp/M105.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/temp/M105.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/temp/M105.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/temp/M106_M107.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/temp/M106_M107.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/temp/M106_M107.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/temp/M106_M107.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/temp/M140_M190.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/temp/M140_M190.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/temp/M140_M190.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/temp/M140_M190.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/temp/M141_M191.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/temp/M141_M191.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/temp/M141_M191.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/temp/M141_M191.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/temp/M155.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/temp/M155.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/temp/M155.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/temp/M155.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/temp/M303.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/temp/M303.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/temp/M303.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/temp/M303.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/gcode/units/M82_M83.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/gcode/units/M82_M83.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/gcode/units/M82_M83.cpp",
+        "output": ".pio/build/mega2560/src/src/gcode/units/M82_M83.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/inc/Warnings.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/inc/Warnings.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/inc/Warnings.cpp",
+        "output": ".pio/build/mega2560/src/src/inc/Warnings.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/lcd/extui/ui_api.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/lcd/extui/ui_api.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/lcd/extui/ui_api.cpp",
+        "output": ".pio/build/mega2560/src/src/lcd/extui/ui_api.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/lcd/fontutils.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/lcd/fontutils.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/lcd/fontutils.cpp",
+        "output": ".pio/build/mega2560/src/src/lcd/fontutils.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/lcd/marlinui.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/lcd/marlinui.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/lcd/marlinui.cpp",
+        "output": ".pio/build/mega2560/src/src/lcd/marlinui.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/libs/buzzer.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/libs/buzzer.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/libs/buzzer.cpp",
+        "output": ".pio/build/mega2560/src/src/libs/buzzer.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/libs/crc16.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/libs/crc16.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/libs/crc16.cpp",
+        "output": ".pio/build/mega2560/src/src/libs/crc16.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/libs/numtostr.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/libs/numtostr.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/libs/numtostr.cpp",
+        "output": ".pio/build/mega2560/src/src/libs/numtostr.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/libs/stopwatch.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/libs/stopwatch.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/libs/stopwatch.cpp",
+        "output": ".pio/build/mega2560/src/src/libs/stopwatch.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/libs/vector_3.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/libs/vector_3.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/libs/vector_3.cpp",
+        "output": ".pio/build/mega2560/src/src/libs/vector_3.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/module/endstops.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/module/endstops.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/module/endstops.cpp",
+        "output": ".pio/build/mega2560/src/src/module/endstops.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/module/motion.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/module/motion.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/module/motion.cpp",
+        "output": ".pio/build/mega2560/src/src/module/motion.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/module/planner.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/module/planner.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/module/planner.cpp",
+        "output": ".pio/build/mega2560/src/src/module/planner.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/module/settings.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/module/settings.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/module/settings.cpp",
+        "output": ".pio/build/mega2560/src/src/module/settings.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/module/stepper.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/module/stepper.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/module/stepper.cpp",
+        "output": ".pio/build/mega2560/src/src/module/stepper.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/module/stepper/indirection.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/module/stepper/indirection.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/module/stepper/indirection.cpp",
+        "output": ".pio/build/mega2560/src/src/module/stepper/indirection.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/module/temperature.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/module/temperature.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/module/temperature.cpp",
+        "output": ".pio/build/mega2560/src/src/module/temperature.cpp.o"
+    },
+    {
+        "command": "/home/eralp_laptop/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/mega2560/src/src/module/tool_change.cpp.o -c -Wno-register -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -g3 -fmax-errors=5 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega2560 -DPLATFORMIO=60200 -DARDUINO_AVR_MEGA2560 -D__MARLIN_FIRMWARE__ -DNDEBUG -DBOARD_F_CPU=16000000L -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IMarlin -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/eralp_laptop/.platformio/packages/framework-arduino-avr/variants/mega Marlin/src/module/tool_change.cpp",
+        "directory": "/home/eralp_laptop/Masa\u00fcst\u00fc/marlinEsp/Marlin-2.1.1.6",
+        "file": "Marlin/src/module/tool_change.cpp",
+        "output": ".pio/build/mega2560/src/src/module/tool_change.cpp.o"
+    }
+]
